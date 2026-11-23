@@ -1,0 +1,11 @@
+se
+entao
+senao
+<=
+==
+<S> ::= a<A> | e<A> | i<A> | o<A> | u<A>
+<A> ::= a<A> | e<A> | i<A> | o<A> | u<A> | ε
+
+<S> ::= x<X>
+<X> ::= x<X>
+<Z> ::= z<Z> | z
